@@ -7,7 +7,7 @@ It focuses on clean API design, data handling, and ML-ready thinking rather than
 The application exposes a single endpoint that accepts an image file and returns basic image metadata. This mirrors the **input validation and preprocessing stage** of real AI/ML systems.
 
 
-![Output](output/output.jpg)
+![Output](output.png)
 
 ---
 
