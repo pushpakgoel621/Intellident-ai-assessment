@@ -6,6 +6,11 @@ This project demonstrates a foundational computer vision pipeline focused on **i
 
 The goal is not to train a model, but to show **clear thinking, correct data handling, and structured code design** before ML is applied.
 
+
+![Input image](data/img1.jpg)
+![Output image](output/img1.jpg)
+
+
 ---
 
 ## Objectives Demonstrated
@@ -48,11 +53,9 @@ This project explicitly demonstrates:
 
 medical-image-loader-analyzer/
 │
-├── data/
-│ └── raw_images/ # Input images provided by the user
+├── data/# Input images provided by the user
 │
-├── output/
-│ └── processed_images/ # Grayscale and resized images
+├── output/# Grayscale and resized images
 │
 ├── src/
 │ ├── image_loader.py # Image loading logic
