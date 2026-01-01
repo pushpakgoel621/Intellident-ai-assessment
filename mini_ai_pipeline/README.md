@@ -5,6 +5,8 @@ This project demonstrates core Python fundamentals, structured data handling, an
 
 The goal is to show **clear thinking**, **clean structure**, and the ability to **explain how AI systems work at a foundational level**.
 
+
+![Output](output.png)
 ---
 
 ## What This Project Demonstrates
