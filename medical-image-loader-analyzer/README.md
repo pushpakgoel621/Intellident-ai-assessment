@@ -51,20 +51,20 @@ This project explicitly demonstrates:
 
 ## Project Structure
 
-medical-image-loader-analyzer/\n
+medical-image-loader-analyzer/
 │
-├── data/# Input images provided by the user\n
+├── data/# Input images provided by the user
 │
-├── output/# Grayscale and resized images\n
+├── output/# Grayscale and resized images
 │
-├── src/\n
-│ ├── image_loader.py # Image loading logic\n
-│ ├── image_processor.py # Grayscale + resize operations\n
-│ └── analyzer.py # Image statistics computation\n
+├── src/
+│ ├── image_loader.py # Image loading logic
+│ ├── image_processor.py # Grayscale + resize operations
+│ └── analyzer.py # Image statistics computation
 │
-├── main.py # End-to-end pipeline execution\n
-├── requirements.txt\n
-└── README.md\n
+├── main.py # End-to-end pipeline execution
+├── requirements.txt
+└── README.md
 
 
 This structure mirrors how real ML pipelines are organized.
