@@ -6,7 +6,7 @@ This project demonstrates a foundational computer vision pipeline focused on **i
 
 The goal is not to train a model, but to show **clear thinking, correct data handling, and structured code design** before ML is applied.
 
-![Output](output (2).png)
+![Output](output.png)
 ![Input image](data/img1.jpg)
 ![Output image](output/img1.jpg)
 
